@@ -1,4 +1,4 @@
-# CodeWay_TaskNo.2
+# Student Grade Calculator
 
 CodeWay Java Development Internship Task 2 - Student Grade Calculator
 
